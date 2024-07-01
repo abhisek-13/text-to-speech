@@ -2,6 +2,7 @@
 
 ## Overview
 This project is a text-to-speech web application built using the Microsoft Edge TTS model. The user interface is created with the Gradio framework. Users can input text, set the pitch and speech rate, choose from various voices in the voice library, and download the generated audio file.
+You can use this web app [here](https://huggingface.co/spaces/peaceout13/Text_to_speech)
 
 ## Features
 - **Text-to-Speech Conversion:** Converts user-input text into speech.
